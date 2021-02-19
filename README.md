@@ -37,9 +37,4 @@ The write-up of the findings can be found in this [article](https://community.da
 
 ### Part Two: Predicting popularity scores on Spotify based on audio/track features 
 
-The second project looked to provide an opportunity to flex some of my supervised learning muscle by building predictive models for popularity scores of tracks on Spotify using these audio/track features.  The approaches that were taken included: 
-   
-   (a) Generalized Linear Models
-   (b) Regression Trees
-   (c) Generalized Additive Models 
-   (d) k-Nearest Neighbours 
+The second project looked to provide an opportunity to flex some of my supervised learning muscle by building predictive models for popularity scores of tracks on Spotify using these audio/track features.  The approaches that were taken included: (a) Generalized Linear Models, (b) Regression Trees, (c) Generalized Additive Models, (d) k-Nearest Neighbours 
