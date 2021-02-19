@@ -24,7 +24,10 @@ A look at the membership history of past and current clients from a boutique tra
 
 A two-part project looking at some data scrapped from the Spotify Web API available on [Kaggle](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks) containing data on the various audio/track features of songs released from 1921-2020.
 
-Stemming from a 10-minute judgmental rant during a car ride from my dad about my playlist choice, the first part examined the audio qualities of tracks across the years to see if he's right about today's music.
+
+### Part One: Time-series analysis of audio/track features based on release year 
+
+Stemming from a 10-minute judgmental rant during a car ride from my dad about my playlist choice, I've examined the audio qualities of tracks across the years to see if he's right about today's music.
 
    * Explored changes in audio and track features of songs based on year of release.
    * Comparison of these features from tracks of Yesterday's Greats with Today's current top artists.
@@ -32,6 +35,7 @@ Stemming from a 10-minute judgmental rant during a car ride from my dad about my
 
 The write-up of the findings can be found in this [article](https://community.dataquest.io/t/using-data-analysis-to-see-if-my-dad-is-right-about-today-s-music/551251/1)
 
+### Part Two: Predicting popularity scores on Spotify based on audio/track features 
 
 The second project looked to provide an opportunity to flex some of my supervised learning muscle by building predictive models for popularity scores of tracks on Spotify using these audio/track features.  The approaches that were taken included: 
    
