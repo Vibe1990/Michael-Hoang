@@ -1,6 +1,6 @@
 # Michael Hoang's Portfolio 
 
-A collection of various data science projects that I've done. 
+A collection of various data-related projects that I've done. 
 
 
 ## PROJECT 1: [Membership Analysis of a Downtown Toronto Gym](https://github.com/Vibe1990/Bang_Membership_Analysis)
