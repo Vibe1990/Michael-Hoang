@@ -35,6 +35,8 @@ Stemming from a 10-minute judgmental rant during a car ride from my dad about my
 
 The write-up of the findings can be found in this [article](https://community.dataquest.io/t/using-data-analysis-to-see-if-my-dad-is-right-about-today-s-music/551251/1)
 
+![](/images/Spotify Article.png)
+
 ### Part Two: Predicting popularity scores on Spotify based on audio/track features 
 
 The second project looked to provide an opportunity to flex some of my supervised learning muscle by building predictive models for popularity scores of tracks on Spotify using these audio/track features.  The approaches that were taken included: (a) Generalized Linear Models, (b) Regression Trees, (c) Generalized Additive Models, (d) k-Nearest Neighbours 
