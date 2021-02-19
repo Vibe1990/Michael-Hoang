@@ -35,7 +35,7 @@ Stemming from a 10-minute judgmental rant during a car ride from my dad about my
 
 The write-up of the findings can be found in this [article](https://community.dataquest.io/t/using-data-analysis-to-see-if-my-dad-is-right-about-today-s-music/551251/1)
 
-![](images/Spotify Article.PNG)
+![](/images/Spotify Article.PNG)
 
 ### Part Two: Predicting popularity scores on Spotify based on audio/track features 
 
