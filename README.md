@@ -20,7 +20,7 @@ A look at the membership history of past and current clients from a boutique tra
 
 
 
-## Project 2: [Analysis of Audio/Track Features of Songs on Spotify](https://github.com/Vibe1990/Spotify_Data_Analysis)
+## PROJECT 2: [Analysis of Audio/Track Features of Songs on Spotify](https://github.com/Vibe1990/Spotify_Data_Analysis)
 
 A two-part project looking at some data scrapped from the Spotify Web API available on [Kaggle](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks) containing data on the various audio/track features of songs released from 1921-2020.
 
@@ -30,6 +30,12 @@ Stemming from a 10-minute judgmental rant during a car ride from my dad about my
    * Comparison of these features from tracks of Yesterday's Greats with Today's current top artists.
    * A quick look at some of the artists whose content we are consuming today.
 
-Check out the [article here](https://community.dataquest.io/t/using-data-analysis-to-see-if-my-dad-is-right-about-today-s-music/551251/1)
+The write-up of the findings can be found in this [article](https://community.dataquest.io/t/using-data-analysis-to-see-if-my-dad-is-right-about-today-s-music/551251/1)
 
 
+The second project looked to provide an opportunity to flex some of my supervised learning muscle by building predictive models for popularity scores of tracks on Spotify using these audio/track features.  The approaches that were taken included: 
+   
+   (a) Generalized Linear Models
+   (b) Regression Trees
+   (c) Generalized Additive Models 
+   (d) k-Nearest Neighbours 
